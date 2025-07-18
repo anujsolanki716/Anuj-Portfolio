@@ -245,7 +245,7 @@ const Contact: React.FC = () => {
                     <div className="text-primary group-hover:scale-110 transition-transform">
                       {social.icon === 'github' && <Github className="w-6 h-6" />}
                       {social.icon === 'linkedin' && <Linkedin className="w-6 h-6" />}
-                      {social.icon === 'code' && <img className="w-6 h-6 bg-foreground rounded" />}
+                      {social.icon === 'code' && <div className="w-6 h-6 bg-foreground rounded" />}
                     </div>
                                             <span className="font-medium text-gray-900 dark:text-white">
                       {social.name}

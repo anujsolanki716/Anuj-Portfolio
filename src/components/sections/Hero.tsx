@@ -167,7 +167,7 @@ const Hero: React.FC = () => {
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 1.6 + index * 0.1 }}
-              >
+              >            
                 {social.icon === 'github' && (
                   <Github className="w-6 h-6 group-hover:text-primary transition-colors" />
                 )}

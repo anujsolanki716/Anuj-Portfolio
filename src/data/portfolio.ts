@@ -56,21 +56,23 @@ export const skills: Skill[] = [
   { name: 'Java', category: 'language', proficiency: 80, icon: '☕' },
   { name: 'JavaScript', category: 'language', proficiency: 88, icon: '🟨' },
   { name: 'SQL', category: 'language', proficiency: 85, icon: '🗄️' },
+  { name: 'MongoDB', category: 'language', proficiency: 85, icon: '🍃' },
+
   
   // Frameworks
   { name: 'React', category: 'framework', proficiency: 85, icon: '⚛️' },
   { name: 'Node.js', category: 'framework', proficiency: 80, icon: '🟢' },
   { name: 'Spring Boot', category: 'framework', proficiency: 75, icon: '🍃' },
   { name: 'Django', category: 'framework', proficiency: 78, icon: '🐍' },
-  { name: 'TypeScript', category: 'framework', proficiency: 82, icon: '🔷' },
   
   // Tools
   { name: 'Git', category: 'tool', proficiency: 90, icon: '📝' },
   { name: 'GitHub', category: 'tool', proficiency: 88, icon: '🐙' },
-  { name: 'MongoDB', category: 'tool', proficiency: 85, icon: '🍃' },
+  // { name: 'MongoDB', category: 'tool', proficiency: 85, icon: '🍃' },
   { name: 'Streamlit', category: 'tool', proficiency: 80, icon: '📊' },
   
   // Concepts
+  { name: 'TypeScript', category: 'concept', proficiency: 82, icon: '🔷' },
   { name: 'OOPs', category: 'concept', proficiency: 90, icon: '🏗️' },
   { name: 'DBMS', category: 'concept', proficiency: 85, icon: '💾' },
   { name: 'OS', category: 'concept', proficiency: 80, icon: '💻' },
