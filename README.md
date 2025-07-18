@@ -154,8 +154,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 - **Email**: anujsolanki716@gmail.com
-- **LinkedIn**: [Anuj Solanki](https://linkedin.com/in/anuj-solanki)
-- **GitHub**: [@anujsolanki](https://github.com/anujsolanki)
+- **LinkedIn**: [[Anuj Solanki](https://www.linkedin.com/in/anuj-solanki-05b764287/)
+- **GitHub**: [@anujsolanki](https://github.com/anujsolanki716?tab=repositories)
 
 ---
 
