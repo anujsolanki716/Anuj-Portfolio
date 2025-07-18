@@ -8,8 +8,8 @@ export const personalInfo = {
   education: {
     degree: 'B.Tech CSE-AI',
     institution: 'IIMT College of Engineering',
-    duration: '2021 – 2025',
-    cgpa: '6.9',
+    duration: 'Oct - 2021 – Jun - 2025',
+    cgpa: '6.98',
     twelfth: {
       percentage: '77%',
       institution: 'SMT. Krishna Devi Inter College',
@@ -24,8 +24,8 @@ export const projects: Project[] = [
     title: 'Krishi Mitra App',
     description: 'Digital assistant for farmers using modern web technology and Gemini AI. Provides real-time agricultural advice, weather updates, and crop management solutions.',
     technologies: ['React', 'Node.js', 'Gemini AI', 'MongoDB', 'Express'],
-    githubUrl: 'https://github.com/anujsolanki/krishi-mitra',
-    liveUrl: 'https://krishi-mitra.vercel.app',
+    githubUrl: 'https://github.com/anujsolanki716/Krishi-Mitra-App',
+    liveUrl: 'https://krishi-mitra-app.vercel.app/',
     image: '/projects/krishi-mitra.jpg',
     featured: true
   },
@@ -34,7 +34,7 @@ export const projects: Project[] = [
     title: 'Sahkarya Web App',
     description: 'Connects citizens with authorities using React and IoT technology. Enables real-time communication and issue reporting between citizens and government officials.',
     technologies: ['React', 'MongoDB', 'IoT', 'Node.js', 'Express'],
-    githubUrl: 'https://github.com/anujsolanki/sahkarya',
+    githubUrl: 'https://github.com/anujsolanki716/Sahkarya/tree/main/Sahkarya-main',
     image: '/projects/sahkarya.jpg',
     featured: true
   },
@@ -43,7 +43,7 @@ export const projects: Project[] = [
     title: 'Stock Price Prediction',
     description: 'ML-based stock price prediction system using machine learning algorithms with Streamlit interface and Django backend.',
     technologies: ['Python', 'Machine Learning', 'Streamlit', 'Django', 'Pandas', 'Scikit-learn'],
-    githubUrl: 'https://github.com/anujsolanki/stock-prediction',
+    githubUrl: 'https://github.com/anujsolanki716/Stock-Price-Prediction/tree/main/StocK-price-Prediction',
     image: '/projects/stock-prediction.jpg',
     featured: true
   }
@@ -72,11 +72,11 @@ export const skills: Skill[] = [
   
   // Concepts
   { name: 'OOPs', category: 'concept', proficiency: 90, icon: '🏗️' },
-  { name: 'DBMS', category: 'concept', proficiency: 85, icon: '🗄️' },
+  { name: 'DBMS', category: 'concept', proficiency: 85, icon: '💾' },
   { name: 'OS', category: 'concept', proficiency: 80, icon: '💻' },
   { name: 'Computer Networks', category: 'concept', proficiency: 82, icon: '🌐' },
   { name: 'Machine Learning', category: 'concept', proficiency: 85, icon: '🤖' },
-  { name: 'AI', category: 'concept', proficiency: 88, icon: '🧠' }
+  { name: 'AI', category: 'concept', proficiency: 88, icon: '✨' }
 ];
 
 export const experience: Experience[] = [
@@ -96,31 +96,31 @@ export const certifications: Certification[] = [
     name: 'Cisco Cyber Security',
     issuer: 'Cisco Networking Academy',
     date: '2023',
-    url: 'https://www.netacad.com/'
+    url: 'https://drive.google.com/file/d/1_s1lfvbKFjB1-6bp53RilQCNEL_on07v/view?usp=sharing'
   },
   {
     id: 'namma-yatri',
     name: 'Namma Yatri Open Mobility Challenge',
     issuer: 'Namma Yatri',
     date: '2023',
-    url: 'https://nammayatri.in/'
+    url: 'https://unstop.com/certificate-preview/6b30c050-a098-41ad-a7f7-68e5120d7a97'
   }
 ];
 
 export const socialLinks: SocialLink[] = [
   {
     name: 'GitHub',
-    url: 'https://github.com/anujsolanki',
+    url: 'https://github.com/anujsolanki716',
     icon: 'github'
   },
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/anuj-solanki',
+    url: 'https://www.linkedin.com/in/anuj-solanki-05b764287/',
     icon: 'linkedin'
   },
   {
     name: 'LeetCode',
-    url: 'https://leetcode.com/anujsolanki',
+    url: 'https://leetcode.com/u/anuj_solanki716/',
     icon: 'code'
   }
 ];
@@ -129,5 +129,5 @@ export const contactInfo: ContactInfo = {
   email: 'anujsolanki716@gmail.com',
   phone: '+91 6397890589',
   location: 'Greater Noida, Uttar Pradesh',
-  linkedin: 'https://linkedin.com/in/anuj-solanki'
+  linkedin: 'https://www.linkedin.com/in/anuj-solanki-05b764287/'
 }; 
