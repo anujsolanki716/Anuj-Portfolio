@@ -9,7 +9,7 @@ export const personalInfo = {
     degree: 'B.Tech CSE-AI',
     institution: 'IIMT College of Engineering',
     duration: 'Oct - 2021 – Jun - 2025',
-    cgpa: '6.98',
+    cgpa: '7.0',
     twelfth: {
       percentage: '77%',
       institution: 'SMT. Krishna Devi Inter College',
